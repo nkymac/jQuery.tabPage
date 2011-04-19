@@ -1,0 +1,11 @@
+tabPage, tabbed navigation plugin for jQuery
+
+(c) 2011 nkym http://nkymemo.blogspot.com/
+released under the MIT license
+
+
+Example:
+
+$(document).ready(function($) {
+    $(expr).tabPage();
+});
